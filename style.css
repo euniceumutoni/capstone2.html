@@ -1,13 +1,17 @@
 .container {
-    width: 100%; 
+    width: 500vh;
     height: 100vh; 
-    overflow: hidden; 
+    display: flex;
+    margin: 0;
+}
+.bg-image {
+    flex-grow: 1;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-.background-title {
-    width: 100%; 
-    height: 100%; 
-}
+
 
 .img-fluid {
     width: 100%; 
@@ -44,8 +48,14 @@
     margin-bottom: 35px;
 
 }
+#about {
+    display: flex;
+    justify-content: center;
+}
 .paragraph {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
 }
 .skills {
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -117,4 +127,12 @@
     margin-right: 30px;
     padding-right: 30px;
     
+}
+.getIn{
+    display: flex;
+    justify-content: center;
+    padding-left: 120px;
+    margin-left: 120px;
+    margin-right: 120px;
+    padding-right: 120px;
 }
