@@ -59,9 +59,17 @@
 .text-h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #FFEFC3;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 .text-p {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .featurette-divider {
@@ -76,17 +84,24 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 .text-p2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .featurette-divider {
     margin-top: 20px;
     margin-bottom: 20px;
 }
-
 .row-featurette {
     display: flex;
     justify-content: center;
