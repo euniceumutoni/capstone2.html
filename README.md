@@ -1,5 +1,5 @@
 # capstone2.html
-Project used using HTML, CSS, and Javascript
+Project used using HTML, and CSS
 
 ### What it is 
 
