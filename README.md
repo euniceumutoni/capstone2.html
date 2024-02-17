@@ -1,6 +1,4 @@
 # capstone2.html
+Project used using HTML, CSS, and Javascript
 
-Udemy project where I get to practice using bootstrap and canva to create a website
-
-Used HTML and CSS mainly. 
-A bit of script for the buttons. 
+### What it is 
